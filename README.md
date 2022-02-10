@@ -8,3 +8,10 @@ Flutter is an open-source UI software development kit created by Google. It is u
 
 
 ## Notes:
+
+This repo is going to provide all Flutter interview questions. Please share it. I will keep adding more questions to it.
+
+Thanks
+
+##  Author 
+Elizah550
