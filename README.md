@@ -14,4 +14,4 @@ This repo is going to provide all Flutter interview questions. Please share it. 
 Thanks
 
 ##  Author 
-Elizah550
+- [Pavan Kumar](https://github.com/Elizah550)
